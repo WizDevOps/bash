@@ -1,0 +1,6 @@
+[submodule "bash-sandbox"]
+	path = bash-sandbox
+	url = git@github.com:dminca/bash-sandbox.git
+[submodule "bash-snippets"]
+	path = bash-snippets
+	url = git@github.com:dminca/bash-snippets.git
